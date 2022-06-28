@@ -1,0 +1,125 @@
+.pergunta{
+    font-weight: 100;
+    font-size: 11pt;
+    text-align: left;
+    width: 88vw;
+}
+
+#objetivo{
+    width: 88vw;
+    height: 300px;
+    margin-bottom: 50px;
+    border-radius: 6px;
+    border: 1px solid #555;
+    background-color: #eee;
+    padding: 5px 0px 5px 10px;
+    font-size: 14pt;
+    
+}
+
+#renda{
+    width: 88vw;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #555;
+    background-color: #eee;
+    padding: 5px 0px 5px 10px;
+    font-size: 14pt;
+}
+
+#aluguel{
+    width: 88vw;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #555;
+    background-color: #eee;
+    padding: 5px 0px 5px 10px;
+    font-size: 14pt;
+}
+
+#alimentacao{
+    width: 88vw;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #555;
+    background-color: #eee;
+    padding: 5px 0px 5px 10px;
+    font-size: 14pt;
+}
+
+#contasDiversas{
+    width: 88vw;
+    height: 30px;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    border: 1px solid #555;
+    background-color: #eee;
+    padding: 5px 0px 5px 10px;
+    font-size: 14pt;
+}
+
+#objetivoPatrimonio{
+    width: 88vw;
+    height: 30px;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    border: 1px solid #555;
+    background-color: #eee;
+    padding: 5px 0px 5px 10px;
+    font-size: 14pt;
+}
+
+#tempoInvestimento{
+    width: 88vw;
+    height: 30px;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    border: 1px solid #555;
+    background-color: #eee;
+    padding: 5px 0px 5px 10px;
+    font-size: 14pt;
+}
+
+#periodicidadeAportes{
+    width: 88vw;
+    height: 30px;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    border: 1px solid #555;
+    background-color: #eee;
+    padding: 5px 0px 5px 10px;
+    font-size: 14pt;
+}
+
+
+h2{
+    margin-bottom: 30px !important;
+}
+
+#botao{
+    width: 90vw;
+}
+.erro{
+    color: red;
+}
+
+
+.botaoEstilo{
+    background-color: #625A5A;
+    color: #fff;
+    border-radius: 20px;
+    border: 0px;
+    box-shadow: 0px;
+    height: 37px;
+    font-size: 9pt;
+    transition: background-color 0.5s;
+}
+.botaoEstilo:hover{
+    background-color: #352c2c;
+    cursor: pointer;
+    transition: background-color  0.4s;
+    
+}
